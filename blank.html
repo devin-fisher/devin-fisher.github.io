@@ -1,4 +1,20 @@
 <html>
 <title>&#8288;</title>
-<body bgcolor="#2E2E2E" >
+<script type="text/javascript">
+      function update()
+      {
+		var bg_val = document.getElementById('backgroud_color').value;
+		document.body.style.backgroundColor = bg_val;
+		document.getElementById('picker').style.display = 'none';
+      }
+</script>
+<body>
+<div id="picker">
+<form name="myform" action="javascript:update();">
+Background Color: <input id="backgroud_color" type="text" name="query" />
+<input type="submit" name="Select" value="Select">
+<submit/>
+</form>
+<br/>Using <a href="http://en.wikipedia.org/wiki/Web_colors">Web Color</a> ( '#2E2E2E' will give you a nice dark gray )
+</div>
 <html>
