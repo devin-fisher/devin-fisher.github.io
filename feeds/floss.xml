@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
 	<channel>
-		<title>FLOSS Weekly (MP3)</title>
+		<title>FLOSS Weekly (MP3) BAKCLOG</title>
 		<link>http://twit.tv/floss</link>
 		<generator>TWiT Feed Generator v2.3</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
@@ -262,5 +262,2000 @@ Tech News, hardware, software, open source, software, how-to
 	<itunes:explicit>no</itunes:explicit>
 	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0305/floss0305.mp3</link>
 	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0305/floss0305.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#304: Fossetcon</title>
+	<pubDate>Wed, 13 Aug 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Fossetcon is the Free and Open Source Software Expo and Technology Conference.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0304/floss0304.mp3</guid>
+	<itunes:subtitle>Fossetcon is the Free and Open Source Software Expo and Technology Conference.</itunes:subtitle>
+	<itunes:summary>Fossetcon is the Free and Open Source Software Expo and Technology Conference.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0304/floss0304.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0304/floss0304.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#303: Bitcore</title>
+	<pubDate>Wed, 30 Jul 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Bitcoin is a new peer-to-peer platform for the next generation of financial technology</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0303/floss0303.mp3</guid>
+	<itunes:subtitle>Bitcoin is a new peer-to-peer platform for the next generation of financial technology</itunes:subtitle>
+	<itunes:summary>Bitcoin is a new peer-to-peer platform for the next generation of financial technology</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0303/floss0303.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0303/floss0303.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#302: Open Mirage</title>
+	<pubDate>Wed, 23 Jul 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Mirage OS is a library OS that works across a variety of cloud computing and mobile platforms.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0302/floss0302.mp3</guid>
+	<itunes:subtitle>Mirage OS is a library OS that works across a variety of cloud computing and mobile platforms.</itunes:subtitle>
+	<itunes:summary>Mirage OS is a library OS that works across a variety of cloud computing and mobile platforms.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0302/floss0302.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0302/floss0302.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#301: OSCON Kids Day</title>
+	<pubDate>Wed, 16 Jul 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>All about OSCON Kids Day, an event to get children interested in computer programming.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0301/floss0301.mp3</guid>
+	<itunes:subtitle>All about OSCON Kids Day, an event to get children interested in computer programming.</itunes:subtitle>
+	<itunes:summary>All about OSCON Kids Day, an event to get children interested in computer programming.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0301/floss0301.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0301/floss0301.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#300: The Big 300</title>
+	<pubDate>Wed, 09 Jul 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Randal and friends talk about the history(so far) of FLOSS Weekly.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0300/floss0300.mp3</guid>
+	<itunes:subtitle>Randal and friends talk about the history(so far) of FLOSS Weekly.</itunes:subtitle>
+	<itunes:summary>Randal and friends talk about the history(so far) of FLOSS Weekly.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0300/floss0300.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0300/floss0300.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#299: Turnkey Linux</title>
+	<pubDate>Wed, 02 Jul 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Turnkey Linux is a free open source project to create customized Linux solutions.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0299/floss0299.mp3</guid>
+	<itunes:subtitle>Turnkey Linux is a free open source project to create customized Linux solutions.</itunes:subtitle>
+	<itunes:summary>Turnkey Linux is a free open source project to create customized Linux solutions.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0299/floss0299.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0299/floss0299.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#298: Tonika</title>
+	<pubDate>Wed, 18 Jun 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Tonika is a platform for large-scale (social) networks.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0298/floss0298.mp3</guid>
+	<itunes:subtitle>Tonika is a platform for large-scale (social) networks.</itunes:subtitle>
+	<itunes:summary>Tonika is a platform for large-scale (social) networks.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0298/floss0298.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0298/floss0298.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#297: Buddycloud</title>
+	<pubDate>Wed, 04 Jun 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Buddycloud is a publish-subscribe architecture with realtime updates.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0297/floss0297.mp3</guid>
+	<itunes:subtitle>Buddycloud is a publish-subscribe architecture with realtime updates.</itunes:subtitle>
+	<itunes:summary>Buddycloud is a publish-subscribe architecture with realtime updates.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0297/floss0297.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0297/floss0297.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#296: Bro</title>
+	<pubDate>Wed, 28 May 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Bro is a powerful network analysis framework.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0296/floss0296.mp3</guid>
+	<itunes:subtitle>Bro is a powerful network analysis framework.</itunes:subtitle>
+	<itunes:summary>Bro is a powerful network analysis framework.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0296/floss0296.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0296/floss0296.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#295: X2Go</title>
+	<pubDate>Wed, 21 May 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>X2Go is a Remote Desktop solution which enables you to access a graphical desktop of a computer over a low bandwidth (or high bandwidth) connection.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0295/floss0295.mp3</guid>
+	<itunes:subtitle>X2Go is a Remote Desktop solution which enables you to access a graphical desktop of a computer over a low bandwidth (or high bandwidth) connection.</itunes:subtitle>
+	<itunes:summary>X2Go is a Remote Desktop solution which enables you to access a graphical desktop of a computer over a low bandwidth (or high bandwidth) connection.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0295/floss0295.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0295/floss0295.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#294: Digital Public Library of America</title>
+	<pubDate>Wed, 14 May 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>The Digital Public Library of America brings together the riches of Americas libraries, archives, and museums, and makes them freely available to the world.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0294/floss0294.mp3</guid>
+	<itunes:subtitle>The Digital Public Library of America brings together the riches of Americas libraries, archives, and museums, and makes them freely available to the world.</itunes:subtitle>
+	<itunes:summary>The Digital Public Library of America brings together the riches of Americas libraries, archives, and museums, and makes them freely available to the world.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0294/floss0294.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0294/floss0294.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#293: Jitsi Meet</title>
+	<pubDate>Wed, 07 May 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo! and many other useful features.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0293/floss0293.mp3</guid>
+	<itunes:subtitle>Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo! and many other useful features.</itunes:subtitle>
+	<itunes:summary>Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo! and many other useful features.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0293/floss0293.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0293/floss0293.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#292: OSCON</title>
+	<pubDate>Thu, 01 May 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>OSCON is an annual convention for the discussion of free and open source software.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0292/floss0292.mp3</guid>
+	<itunes:subtitle>OSCON is an annual convention for the discussion of free and open source software.</itunes:subtitle>
+	<itunes:summary>OSCON is an annual convention for the discussion of free and open source software.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0292/floss0292.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0292/floss0292.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#291: OpenStax CNX</title>
+	<pubDate>Wed, 23 Apr 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>OpenStax CNX (previously Connexions) is a shared content repository of educational resources - primarily textbook style content.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0291/floss0291.mp3</guid>
+	<itunes:subtitle>OpenStax CNX (previously Connexions) is a shared content repository of educational resources - primarily textbook style content.</itunes:subtitle>
+	<itunes:summary>OpenStax CNX (previously Connexions) is a shared content repository of educational resources - primarily textbook style content.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0291/floss0291.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0291/floss0291.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#290: Seafile</title>
+	<pubDate>Wed, 16 Apr 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Seafile is an open source cloud storage solution with advanced features on file syncing, privacy protection and teamwork.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0290/floss0290.mp3</guid>
+	<itunes:subtitle>Seafile is an open source cloud storage solution with advanced features on file syncing, privacy protection and teamwork.</itunes:subtitle>
+	<itunes:summary>Seafile is an open source cloud storage solution with advanced features on file syncing, privacy protection and teamwork.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0290/floss0290.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0290/floss0290.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#289: Mifos X</title>
+	<pubDate>Wed, 09 Apr 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Mifos.org is a diverse community of microfinance institutions, technology professionals, business people, volunteers, and contributors.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0289/floss0289.mp3</guid>
+	<itunes:subtitle>Mifos.org is a diverse community of microfinance institutions, technology professionals, business people, volunteers, and contributors.</itunes:subtitle>
+	<itunes:summary>Mifos.org is a diverse community of microfinance institutions, technology professionals, business people, volunteers, and contributors.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0289/floss0289.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0289/floss0289.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#288: GNU Health</title>
+	<pubDate>Wed, 19 Mar 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>GNU Health is a free Health and Hospital Information System with the following functionality: Electronic Medical Record (EMR), Hospital Information System (HIS) and Health Information System.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0288/floss0288.mp3</guid>
+	<itunes:subtitle>GNU Health is a free Health and Hospital Information System with the following functionality: Electronic Medical Record (EMR), Hospital Information System (HIS) and Health Information System.</itunes:subtitle>
+	<itunes:summary>GNU Health is a free Health and Hospital Information System with the following functionality: Electronic Medical Record (EMR), Hospital Information System (HIS) and Health Information System.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0288/floss0288.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0288/floss0288.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#287: TYPO3</title>
+	<pubDate>Wed, 12 Mar 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>TYPO3 is an Enterprise Open Source CMS.  Christian Mueller is a community contact for the Neos and Flow teams.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0287/floss0287.mp3</guid>
+	<itunes:subtitle>TYPO3 is an Enterprise Open Source CMS.  Christian Mueller is a community contact for the Neos and Flow teams.</itunes:subtitle>
+	<itunes:summary>TYPO3 is an Enterprise Open Source CMS.  Christian Mueller is a community contact for the Neos and Flow teams.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0287/floss0287.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0287/floss0287.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#286: MonoGame</title>
+	<pubDate>Wed, 05 Mar 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>MonoGame is an open source implementation of the Microsoft XNA 4.x Framework, to make it easy for XNA developers to create cross-platform games.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0286/floss0286.mp3</guid>
+	<itunes:subtitle>MonoGame is an open source implementation of the Microsoft XNA 4.x Framework, to make it easy for XNA developers to create cross-platform games.</itunes:subtitle>
+	<itunes:summary>MonoGame is an open source implementation of the Microsoft XNA 4.x Framework, to make it easy for XNA developers to create cross-platform games.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0286/floss0286.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0286/floss0286.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#285: Hydra</title>
+	<pubDate>Wed, 26 Feb 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Hydra is a distributed data processing and storage system originally developed at AddThis.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0285/floss0285.mp3</guid>
+	<itunes:subtitle>Hydra is a distributed data processing and storage system originally developed at AddThis.</itunes:subtitle>
+	<itunes:summary>Hydra is a distributed data processing and storage system originally developed at AddThis.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0285/floss0285.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0285/floss0285.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#284: The Go Language</title>
+	<pubDate>Wed, 19 Feb 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0284/floss0284.mp3</guid>
+	<itunes:subtitle>Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.</itunes:subtitle>
+	<itunes:summary>Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0284/floss0284.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0284/floss0284.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#283: nginx</title>
+	<pubDate>Wed, 12 Feb 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Run by the busiest web sites on the Internet, NGINX enables high performance web architectures to improve user experience, without incurring unnecessary costs in capital or time.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0283/floss0283.mp3</guid>
+	<itunes:subtitle>Run by the busiest web sites on the Internet, NGINX enables high performance web architectures to improve user experience, without incurring unnecessary costs in capital or time.</itunes:subtitle>
+	<itunes:summary>Run by the busiest web sites on the Internet, NGINX enables high performance web architectures to improve user experience, without incurring unnecessary costs in capital or time.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0283/floss0283.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0283/floss0283.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#282: GENIVI</title>
+	<pubDate>Wed, 05 Feb 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>GENIVI is a non-profit industry alliance committed to driving the broad adoption of an In-Vehicle Infotainment (IVI) open-source development platform.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0282/floss0282.mp3</guid>
+	<itunes:subtitle>GENIVI is a non-profit industry alliance committed to driving the broad adoption of an In-Vehicle Infotainment (IVI) open-source development platform.</itunes:subtitle>
+	<itunes:summary>GENIVI is a non-profit industry alliance committed to driving the broad adoption of an In-Vehicle Infotainment (IVI) open-source development platform.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0282/floss0282.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0282/floss0282.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#281: Omegaverse</title>
+	<pubDate>Wed, 29 Jan 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>The Omega Project aims to develop a universe simulator accessible by registered users over the json-rpc protocol.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0281/floss0281.mp3</guid>
+	<itunes:subtitle>The Omega Project aims to develop a universe simulator accessible by registered users over the json-rpc protocol.</itunes:subtitle>
+	<itunes:summary>The Omega Project aims to develop a universe simulator accessible by registered users over the json-rpc protocol.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0281/floss0281.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0281/floss0281.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#280: LIBRE API</title>
+	<pubDate>Wed, 22 Jan 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>LIBRE was created by the Office of the Chief Information Officer of the Commonwealth of Puerto Rico to power the liberation of government data.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0280/floss0280.mp3</guid>
+	<itunes:subtitle>LIBRE was created by the Office of the Chief Information Officer of the Commonwealth of Puerto Rico to power the liberation of government data.</itunes:subtitle>
+	<itunes:summary>LIBRE was created by the Office of the Chief Information Officer of the Commonwealth of Puerto Rico to power the liberation of government data.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0280/floss0280.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0280/floss0280.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#279: SCaLE 12X</title>
+	<pubDate>Wed, 15 Jan 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>SCaLE is a community run open-source and free software conference held annually in Los Angeles.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0279/floss0279.mp3</guid>
+	<itunes:subtitle>SCaLE is a community run open-source and free software conference held annually in Los Angeles.</itunes:subtitle>
+	<itunes:summary>SCaLE is a community run open-source and free software conference held annually in Los Angeles.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0279/floss0279.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0279/floss0279.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#278: arkOS</title>
+	<pubDate>Wed, 08 Jan 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>arkOS is a project designed to make self-hosting common web services easy for the general public.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0278/floss0278.mp3</guid>
+	<itunes:subtitle>arkOS is a project designed to make self-hosting common web services easy for the general public.</itunes:subtitle>
+	<itunes:summary>arkOS is a project designed to make self-hosting common web services easy for the general public.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0278/floss0278.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0278/floss0278.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#277: Magnolia and Blossom</title>
+	<pubDate>Wed, 18 Dec 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Magnolia is an open Java CMS that delivers smartphone simplicity on an enterprise-scale.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0277/floss0277.mp3</guid>
+	<itunes:subtitle>Magnolia is an open Java CMS that delivers smartphone simplicity on an enterprise-scale.</itunes:subtitle>
+	<itunes:summary>Magnolia is an open Java CMS that delivers smartphone simplicity on an enterprise-scale.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0277/floss0277.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0277/floss0277.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#276: FreePBX</title>
+	<pubDate>Wed, 11 Dec 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>The FreePBX is an free open source web-based PBX solution.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0276/floss0276.mp3</guid>
+	<itunes:subtitle>The FreePBX is an free open source web-based PBX solution.</itunes:subtitle>
+	<itunes:summary>The FreePBX is an free open source web-based PBX solution.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0276/floss0276.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0276/floss0276.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#275: Amahi redo</title>
+	<pubDate>Wed, 04 Dec 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Amahi is an open source software that runs on a dedicated PC as a central computer for your home.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0275/floss0275.mp3</guid>
+	<itunes:subtitle>Amahi is an open source software that runs on a dedicated PC as a central computer for your home.</itunes:subtitle>
+	<itunes:summary>Amahi is an open source software that runs on a dedicated PC as a central computer for your home.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0275/floss0275.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0275/floss0275.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#274: ownCloud</title>
+	<pubDate>Wed, 27 Nov 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>ownCloud provides universal access to your files via the web, your computer or your mobile devices.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0274/floss0274.mp3</guid>
+	<itunes:subtitle>ownCloud provides universal access to your files via the web, your computer or your mobile devices.</itunes:subtitle>
+	<itunes:summary>ownCloud provides universal access to your files via the web, your computer or your mobile devices.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0274/floss0274.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0274/floss0274.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#273: RDO</title>
+	<pubDate>Wed, 13 Nov 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>RDO is a community of people using and deploying OpenStack on Red Hat and Red Hat-based platforms.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0273/floss0273.mp3</guid>
+	<itunes:subtitle>RDO is a community of people using and deploying OpenStack on Red Hat and Red Hat-based platforms.</itunes:subtitle>
+	<itunes:summary>RDO is a community of people using and deploying OpenStack on Red Hat and Red Hat-based platforms.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0273/floss0273.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0273/floss0273.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#272: gPodder</title>
+	<pubDate>Wed, 06 Nov 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>gpodder.net is a libre web service that allows you to manage your podcast subscriptions and discover new content.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0272/floss0272.mp3</guid>
+	<itunes:subtitle>gpodder.net is a libre web service that allows you to manage your podcast subscriptions and discover new content.</itunes:subtitle>
+	<itunes:summary>gpodder.net is a libre web service that allows you to manage your podcast subscriptions and discover new content.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0272/floss0272.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0272/floss0272.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#271: OpenSUSE Summit</title>
+	<pubDate>Wed, 30 Oct 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>The oSSum13 program includes keynotes, talks, workshops and a lot of fun.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0271/floss0271.mp3</guid>
+	<itunes:subtitle>The oSSum13 program includes keynotes, talks, workshops and a lot of fun.</itunes:subtitle>
+	<itunes:summary>The oSSum13 program includes keynotes, talks, workshops and a lot of fun.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0271/floss0271.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0271/floss0271.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#270: QGIS</title>
+	<pubDate>Wed, 23 Oct 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>QGIS is a geographical software that lets you layout and analyze maps.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0270/floss0270.mp3</guid>
+	<itunes:subtitle>QGIS is a geographical software that lets you layout and analyze maps.</itunes:subtitle>
+	<itunes:summary>QGIS is a geographical software that lets you layout and analyze maps.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0270/floss0270.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0270/floss0270.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#269: Beagleboard</title>
+	<pubDate>Wed, 16 Oct 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>The BeagleBoard.org Foundation is a US-based 501(c) non-profit corporation existing to provide education in and promotion of the design and use of open-source software and hardware in embedded computing.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0269/floss0269.mp3</guid>
+	<itunes:subtitle>The BeagleBoard.org Foundation is a US-based 501(c) non-profit corporation existing to provide education in and promotion of the design and use of open-source software and hardware in embedded computing.</itunes:subtitle>
+	<itunes:summary>The BeagleBoard.org Foundation is a US-based 501(c) non-profit corporation existing to provide education in and promotion of the design and use of open-source software and hardware in embedded computing.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0269/floss0269.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0269/floss0269.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#268: Wireshark</title>
+	<pubDate>Wed, 09 Oct 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Wireshark is the world's foremost network protocol analyzer.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0268/floss0268.mp3</guid>
+	<itunes:subtitle>Wireshark is the world's foremost network protocol analyzer.</itunes:subtitle>
+	<itunes:summary>Wireshark is the world's foremost network protocol analyzer.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0268/floss0268.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0268/floss0268.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#267: YaCy</title>
+	<pubDate>Wed, 02 Oct 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>YaCy is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0267/floss0267.mp3</guid>
+	<itunes:subtitle>YaCy is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.</itunes:subtitle>
+	<itunes:summary>YaCy is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0267/floss0267.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0267/floss0267.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#266: ZoneMinder</title>
+	<pubDate>Wed, 25 Sep 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>ZoneMinder is intended for use in single or multi-camera video security applications.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0266/floss0266.mp3</guid>
+	<itunes:subtitle>ZoneMinder is intended for use in single or multi-camera video security applications.</itunes:subtitle>
+	<itunes:summary>ZoneMinder is intended for use in single or multi-camera video security applications.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0266/floss0266.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0266/floss0266.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#265: OpenWrt</title>
+	<pubDate>Wed, 18 Sep 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>OpenWrt is described as a Linux distribution for embedded devices.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0265/floss0265.mp3</guid>
+	<itunes:subtitle>OpenWrt is described as a Linux distribution for embedded devices.</itunes:subtitle>
+	<itunes:summary>OpenWrt is described as a Linux distribution for embedded devices.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0265/floss0265.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0265/floss0265.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#264: CampFireManager</title>
+	<pubDate>Wed, 11 Sep 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>CampFireManager is a talk scheduling tool for conferences - such as barcamps or fixed schedule conferences.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0264/floss0264.mp3</guid>
+	<itunes:subtitle>CampFireManager is a talk scheduling tool for conferences - such as barcamps or fixed schedule conferences.</itunes:subtitle>
+	<itunes:summary>CampFireManager is a talk scheduling tool for conferences - such as barcamps or fixed schedule conferences.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0264/floss0264.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0264/floss0264.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#263: ClockWork</title>
+	<pubDate>Wed, 04 Sep 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>ClockWork provides a high level, finite statemachine-based language called Clockwork that can be used to describe process control systems.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0263/floss0263.mp3</guid>
+	<itunes:subtitle>ClockWork provides a high level, finite statemachine-based language called Clockwork that can be used to describe process control systems.</itunes:subtitle>
+	<itunes:summary>ClockWork provides a high level, finite statemachine-based language called Clockwork that can be used to describe process control systems.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0263/floss0263.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0263/floss0263.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#262: SaltStack Redux</title>
+	<pubDate>Wed, 21 Aug 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>SaltStack develops software for cloud orchestration, server automation and IT infrastructure management.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0262/floss0262.mp3</guid>
+	<itunes:subtitle>SaltStack develops software for cloud orchestration, server automation and IT infrastructure management.</itunes:subtitle>
+	<itunes:summary>SaltStack develops software for cloud orchestration, server automation and IT infrastructure management.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0262/floss0262.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0262/floss0262.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#261: Kaltura</title>
+	<pubDate>Wed, 14 Aug 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Kaltura is an open source online video platform, providing software and services for publishing, management, and more.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0261/floss0261.mp3</guid>
+	<itunes:subtitle>Kaltura is an open source online video platform, providing software and services for publishing, management, and more.</itunes:subtitle>
+	<itunes:summary>Kaltura is an open source online video platform, providing software and services for publishing, management, and more.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0261/floss0261.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0261/floss0261.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#260: Opsview</title>
+	<pubDate>Wed, 07 Aug 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Opsview is a global IT Systems Management software business.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0260/floss0260.mp3</guid>
+	<itunes:subtitle>Opsview is a global IT Systems Management software business.</itunes:subtitle>
+	<itunes:summary>Opsview is a global IT Systems Management software business.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0260/floss0260.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0260/floss0260.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#259: OSCON 2013</title>
+	<pubDate>Wed, 31 Jul 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Simon Phipps interviews several key people at OSCON 2013.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0259/floss0259.mp3</guid>
+	<itunes:subtitle>Simon Phipps interviews several key people at OSCON 2013.</itunes:subtitle>
+	<itunes:summary>Simon Phipps interviews several key people at OSCON 2013.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0259/floss0259.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0259/floss0259.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#258: OpenStack Swift</title>
+	<pubDate>Wed, 24 Jul 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Swift is a highly available, distributed, eventually consistent object/blob store.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0258/floss0258.mp3</guid>
+	<itunes:subtitle>Swift is a highly available, distributed, eventually consistent object/blob store.</itunes:subtitle>
+	<itunes:summary>Swift is a highly available, distributed, eventually consistent object/blob store.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0258/floss0258.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0258/floss0258.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#257: Ansibleworks</title>
+	<pubDate>Wed, 17 Jul 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Ansible is a radically simple IT orchestration solution that automates configuration, software deployment, and other IT needs.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0257/floss0257.mp3</guid>
+	<itunes:subtitle>Ansible is a radically simple IT orchestration solution that automates configuration, software deployment, and other IT needs.</itunes:subtitle>
+	<itunes:summary>Ansible is a radically simple IT orchestration solution that automates configuration, software deployment, and other IT needs.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0257/floss0257.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0257/floss0257.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#256: Serenity for Android</title>
+	<pubDate>Wed, 26 Jun 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Serenity for Android is a Plex Media Server client for tablets and Google TV devices.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0256/floss0256.mp3</guid>
+	<itunes:subtitle>Serenity for Android is a Plex Media Server client for tablets and Google TV devices.</itunes:subtitle>
+	<itunes:summary>Serenity for Android is a Plex Media Server client for tablets and Google TV devices.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0256/floss0256.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0256/floss0256.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#255: web2Project</title>
+	<pubDate>Wed, 12 Jun 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>web2Project is a Free Open Source business-oriented Project Management System (PMS) built for the future.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0255/floss0255.mp3</guid>
+	<itunes:subtitle>web2Project is a Free Open Source business-oriented Project Management System (PMS) built for the future.</itunes:subtitle>
+	<itunes:summary>web2Project is a Free Open Source business-oriented Project Management System (PMS) built for the future.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0255/floss0255.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0255/floss0255.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#254: The Maker</title>
+	<pubDate>Wed, 05 Jun 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>The Maker is a content management system for rapidly creating, editing, previewing, and publishing websites on the Mac.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0254/floss0254.mp3</guid>
+	<itunes:subtitle>The Maker is a content management system for rapidly creating, editing, previewing, and publishing websites on the Mac.</itunes:subtitle>
+	<itunes:summary>The Maker is a content management system for rapidly creating, editing, previewing, and publishing websites on the Mac.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0254/floss0254.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0254/floss0254.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#253: Mayan EDMS</title>
+	<pubDate>Wed, 29 May 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Mayan EDMS is a document management system with automated OCR, automatic categorization, flexible metadata, extensive access control and more.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0253/floss0253.mp3</guid>
+	<itunes:subtitle>Mayan EDMS is a document management system with automated OCR, automatic categorization, flexible metadata, extensive access control and more.</itunes:subtitle>
+	<itunes:summary>Mayan EDMS is a document management system with automated OCR, automatic categorization, flexible metadata, extensive access control and more.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0253/floss0253.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0253/floss0253.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#252: Ubuntu Phone</title>
+	<pubDate>Wed, 22 May 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Ubuntu Community Manager Jono Bacon discusses Ubuntu Phone and where the development is headed.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0252/floss0252.mp3</guid>
+	<itunes:subtitle>Ubuntu Community Manager Jono Bacon discusses Ubuntu Phone and where the development is headed.</itunes:subtitle>
+	<itunes:summary>Ubuntu Community Manager Jono Bacon discusses Ubuntu Phone and where the development is headed.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0252/floss0252.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0252/floss0252.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#251: Sauce Labs</title>
+	<pubDate>Wed, 08 May 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Sauce Labs is an automated testing tool for mobile and web apps.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0251/floss0251.mp3</guid>
+	<itunes:subtitle>Sauce Labs is an automated testing tool for mobile and web apps.</itunes:subtitle>
+	<itunes:summary>Sauce Labs is an automated testing tool for mobile and web apps.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0251/floss0251.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0251/floss0251.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#250: Ceph</title>
+	<pubDate>Wed, 01 May 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0250/floss0250.mp3</guid>
+	<itunes:subtitle>Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.</itunes:subtitle>
+	<itunes:summary>Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0250/floss0250.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0250/floss0250.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#249: Weblate</title>
+	<pubDate>Wed, 24 Apr 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Weblate is a free web-based translation tool with tight Git integration.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0249/floss0249.mp3</guid>
+	<itunes:subtitle>Weblate is a free web-based translation tool with tight Git integration.</itunes:subtitle>
+	<itunes:summary>Weblate is a free web-based translation tool with tight Git integration.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0249/floss0249.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0249/floss0249.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#248: Pootle</title>
+	<pubDate>Wed, 17 Apr 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Pootle is an online translation platform that allows your professional or community translators to easily complete localization tasks.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0248/floss0248.mp3</guid>
+	<itunes:subtitle>Pootle is an online translation platform that allows your professional or community translators to easily complete localization tasks.</itunes:subtitle>
+	<itunes:summary>Pootle is an online translation platform that allows your professional or community translators to easily complete localization tasks.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0248/floss0248.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0248/floss0248.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#247: Apache Cloudstack</title>
+	<pubDate>Wed, 10 Apr 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>CloudStack is open source software designed to manage large networks of virtual machines as a cloud computing platform.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0247/floss0247.mp3</guid>
+	<itunes:subtitle>CloudStack is open source software designed to manage large networks of virtual machines as a cloud computing platform.</itunes:subtitle>
+	<itunes:summary>CloudStack is open source software designed to manage large networks of virtual machines as a cloud computing platform.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0247/floss0247.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0247/floss0247.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#246: Pinto</title>
+	<pubDate>Wed, 27 Mar 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Pinto is a robust tool for creating custom CPAN-like repositories of Perl modules.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0246/floss0246.mp3</guid>
+	<itunes:subtitle>Pinto is a robust tool for creating custom CPAN-like repositories of Perl modules.</itunes:subtitle>
+	<itunes:summary>Pinto is a robust tool for creating custom CPAN-like repositories of Perl modules.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0246/floss0246.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0246/floss0246.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#245: Dart</title>
+	<pubDate>Wed, 20 Mar 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Dart brings structure to web app engineering with a new language, libraries, and tools.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0245/floss0245.mp3</guid>
+	<itunes:subtitle>Dart brings structure to web app engineering with a new language, libraries, and tools.</itunes:subtitle>
+	<itunes:summary>Dart brings structure to web app engineering with a new language, libraries, and tools.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0245/floss0245.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0245/floss0245.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#244: CakePHP</title>
+	<pubDate>Wed, 06 Mar 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>CakePHP makes building web applications simpler, faster and require less code.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0244/floss0244.mp3</guid>
+	<itunes:subtitle>CakePHP makes building web applications simpler, faster and require less code.</itunes:subtitle>
+	<itunes:summary>CakePHP makes building web applications simpler, faster and require less code.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0244/floss0244.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0244/floss0244.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#243: Zotonic</title>
+	<pubDate>Wed, 20 Feb 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Zotonic is the open source, high speed, real-time web framework  and content management system, built with Erlang.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0243/floss0243.mp3</guid>
+	<itunes:subtitle>Zotonic is the open source, high speed, real-time web framework  and content management system, built with Erlang.</itunes:subtitle>
+	<itunes:summary>Zotonic is the open source, high speed, real-time web framework  and content management system, built with Erlang.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0243/floss0243.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0243/floss0243.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#242: MediaGoblin</title>
+	<pubDate>Wed, 13 Feb 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>MediaGoblin is a free software media publishing platform that anyone can run.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0242/floss0242.mp3</guid>
+	<itunes:subtitle>MediaGoblin is a free software media publishing platform that anyone can run.</itunes:subtitle>
+	<itunes:summary>MediaGoblin is a free software media publishing platform that anyone can run.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0242/floss0242.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0242/floss0242.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#241: Tapper</title>
+	<pubDate>Wed, 06 Feb 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Tapper is a test infrastructure providing continuous integration through setting up complete machines from scratch, either image-based or via kickstart/autoyast/preseed.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0241/floss0241.mp3</guid>
+	<itunes:subtitle>Tapper is a test infrastructure providing continuous integration through setting up complete machines from scratch, either image-based or via kickstart/autoyast/preseed.</itunes:subtitle>
+	<itunes:summary>Tapper is a test infrastructure providing continuous integration through setting up complete machines from scratch, either image-based or via kickstart/autoyast/preseed.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0241/floss0241.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0241/floss0241.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#240: Auphonic</title>
+	<pubDate>Wed, 30 Jan 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Auphonic is a free service for processing and distributing audio.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0240/floss0240.mp3</guid>
+	<itunes:subtitle>Auphonic is a free service for processing and distributing audio.</itunes:subtitle>
+	<itunes:summary>Auphonic is a free service for processing and distributing audio.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0240/floss0240.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0240/floss0240.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#239: Concrete CMS</title>
+	<pubDate>Wed, 23 Jan 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Concrete5 is an easy to edit CMS designed to serve the relationship between site developers and site owners.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0239/floss0239.mp3</guid>
+	<itunes:subtitle>Concrete5 is an easy to edit CMS designed to serve the relationship between site developers and site owners.</itunes:subtitle>
+	<itunes:summary>Concrete5 is an easy to edit CMS designed to serve the relationship between site developers and site owners.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0239/floss0239.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0239/floss0239.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#238: Gevent</title>
+	<pubDate>Wed, 16 Jan 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>gevent is a coroutine-based Python networking library that uses greenlet to provide a high-level synchronous API on top of the libevent event loop.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0238/floss0238.mp3</guid>
+	<itunes:subtitle>gevent is a coroutine-based Python networking library that uses greenlet to provide a high-level synchronous API on top of the libevent event loop.</itunes:subtitle>
+	<itunes:summary>gevent is a coroutine-based Python networking library that uses greenlet to provide a high-level synchronous API on top of the libevent event loop.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0238/floss0238.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0238/floss0238.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#237: Node.js</title>
+	<pubDate>Wed, 09 Jan 2013 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0237/floss0237.mp3</guid>
+	<itunes:subtitle>Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.</itunes:subtitle>
+	<itunes:summary>Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0237/floss0237.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0237/floss0237.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#236: Yesod</title>
+	<pubDate>Wed, 19 Dec 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Yesod is a Haskell web framework for productive development of type-safe, RESTful, high performance web applications.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0236/floss0236.mp3</guid>
+	<itunes:subtitle>Yesod is a Haskell web framework for productive development of type-safe, RESTful, high performance web applications.</itunes:subtitle>
+	<itunes:summary>Yesod is a Haskell web framework for productive development of type-safe, RESTful, high performance web applications.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0236/floss0236.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0236/floss0236.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#235: Broadleaf Commerce</title>
+	<pubDate>Wed, 05 Dec 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>BroadleafCommerce is an open-source, eCommerce framework written entirely in Java.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0235/floss0235.mp3</guid>
+	<itunes:subtitle>BroadleafCommerce is an open-source, eCommerce framework written entirely in Java.</itunes:subtitle>
+	<itunes:summary>BroadleafCommerce is an open-source, eCommerce framework written entirely in Java.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0235/floss0235.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0235/floss0235.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#234: The Foreman</title>
+	<pubDate>Wed, 28 Nov 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Foreman is aimed to be a Single Address For All Machines Life Cycle Management.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0234/floss0234.mp3</guid>
+	<itunes:subtitle>Foreman is aimed to be a Single Address For All Machines Life Cycle Management.</itunes:subtitle>
+	<itunes:summary>Foreman is aimed to be a Single Address For All Machines Life Cycle Management.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0234/floss0234.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0234/floss0234.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#233: Zanata</title>
+	<pubDate>Wed, 21 Nov 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Zanata is written in Java and uses modern web technologies like JBoss, Seam, GWT, Hibernate, and a REST API.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0233/floss0233.mp3</guid>
+	<itunes:subtitle>Zanata is written in Java and uses modern web technologies like JBoss, Seam, GWT, Hibernate, and a REST API.</itunes:subtitle>
+	<itunes:summary>Zanata is written in Java and uses modern web technologies like JBoss, Seam, GWT, Hibernate, and a REST API.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0233/floss0233.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0233/floss0233.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#232: Err Chatbot</title>
+	<pubDate>Wed, 07 Nov 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Err is a plugin based chatbot designed to be easily deployable, extensible and maintainable.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0232/floss0232.mp3</guid>
+	<itunes:subtitle>Err is a plugin based chatbot designed to be easily deployable, extensible and maintainable.</itunes:subtitle>
+	<itunes:summary>Err is a plugin based chatbot designed to be easily deployable, extensible and maintainable.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0232/floss0232.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0232/floss0232.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#231: imagefactory</title>
+	<pubDate>Wed, 31 Oct 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Cloud image creation made easy with imagefactory</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0231/floss0231.mp3</guid>
+	<itunes:subtitle>Cloud image creation made easy with imagefactory</itunes:subtitle>
+	<itunes:summary>Cloud image creation made easy with imagefactory</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0231/floss0231.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0231/floss0231.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#230: Baserock</title>
+	<pubDate>Wed, 24 Oct 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Baserock aims to be a great way to build embedded systems with Linux.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0230/floss0230.mp3</guid>
+	<itunes:subtitle>Baserock aims to be a great way to build embedded systems with Linux.</itunes:subtitle>
+	<itunes:summary>Baserock aims to be a great way to build embedded systems with Linux.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0230/floss0230.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0230/floss0230.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#229: KVM</title>
+	<pubDate>Wed, 17 Oct 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>KVM: Behind the scenes of probably everything you're using.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0229/floss0229.mp3</guid>
+	<itunes:subtitle>KVM: Behind the scenes of probably everything you're using.</itunes:subtitle>
+	<itunes:summary>KVM: Behind the scenes of probably everything you're using.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0229/floss0229.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0229/floss0229.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#228: HPCC Systems</title>
+	<pubDate>Wed, 03 Oct 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>HPCC (High Performance Computing Cluster) is a massive parallel-processing computing platform that solves Big Data problems. The platform is now Open Source!</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0228/floss0228.mp3</guid>
+	<itunes:subtitle>HPCC (High Performance Computing Cluster) is a massive parallel-processing computing platform that solves Big Data problems. The platform is now Open Source!</itunes:subtitle>
+	<itunes:summary>HPCC (High Performance Computing Cluster) is a massive parallel-processing computing platform that solves Big Data problems. The platform is now Open Source!</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0228/floss0228.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0228/floss0228.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#227: Jaspersoft</title>
+	<pubDate>Wed, 19 Sep 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Jaspersoft delivers truly cost-effective, self-service business intelligence (BI) at scale.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0227/floss0227.mp3</guid>
+	<itunes:subtitle>Jaspersoft delivers truly cost-effective, self-service business intelligence (BI) at scale.</itunes:subtitle>
+	<itunes:summary>Jaspersoft delivers truly cost-effective, self-service business intelligence (BI) at scale.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0227/floss0227.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0227/floss0227.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#226: OpenROV</title>
+	<pubDate>Thu, 13 Sep 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>OpenROV is a DIY community centered around underwater robots for exploration & adventure.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0226/floss0226.mp3</guid>
+	<itunes:subtitle>OpenROV is a DIY community centered around underwater robots for exploration & adventure.</itunes:subtitle>
+	<itunes:summary>OpenROV is a DIY community centered around underwater robots for exploration & adventure.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0226/floss0226.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0226/floss0226.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#225: Twisted</title>
+	<pubDate>Wed, 05 Sep 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Twisted is an event-driven networking engine written in Python and licensed under the open source MIT license.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0225/floss0225.mp3</guid>
+	<itunes:subtitle>Twisted is an event-driven networking engine written in Python and licensed under the open source MIT license.</itunes:subtitle>
+	<itunes:summary>Twisted is an event-driven networking engine written in Python and licensed under the open source MIT license.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0225/floss0225.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0225/floss0225.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#224: PostgreSQL and EnterpriseDB</title>
+	<pubDate>Wed, 29 Aug 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>PostgreSQL is the #1 enterprise-class open source database with a feature set comparable to the major proprietary RDBMS vendors and a customer list that spans every industry.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0224/floss0224.mp3</guid>
+	<itunes:subtitle>PostgreSQL is the #1 enterprise-class open source database with a feature set comparable to the major proprietary RDBMS vendors and a customer list that spans every industry.</itunes:subtitle>
+	<itunes:summary>PostgreSQL is the #1 enterprise-class open source database with a feature set comparable to the major proprietary RDBMS vendors and a customer list that spans every industry.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0224/floss0224.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0224/floss0224.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#223: Openbravo</title>
+	<pubDate>Wed, 22 Aug 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Openbravo, the scalable open source business management framework.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0223/floss0223.mp3</guid>
+	<itunes:subtitle>Openbravo, the scalable open source business management framework.</itunes:subtitle>
+	<itunes:summary>Openbravo, the scalable open source business management framework.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0223/floss0223.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0223/floss0223.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#222: SugarCRM</title>
+	<pubDate>Wed, 15 Aug 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Sugar is an affordable and easy to use customer relationship management (CRM) platform, designed to help your business communicate with prospects, share sales information, close deals and keep customers happy.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0222/floss0222.mp3</guid>
+	<itunes:subtitle>Sugar is an affordable and easy to use customer relationship management (CRM) platform, designed to help your business communicate with prospects, share sales information, close deals and keep customers happy.</itunes:subtitle>
+	<itunes:summary>Sugar is an affordable and easy to use customer relationship management (CRM) platform, designed to help your business communicate with prospects, share sales information, close deals and keep customers happy.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0222/floss0222.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0222/floss0222.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#221: The Falcon Programming Language</title>
+	<pubDate>Wed, 08 Aug 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>The Falcon Programming Language: An Open Source, simple, fast and powerful programming language, easy to learn and to feel comfortable with.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0221/floss0221.mp3</guid>
+	<itunes:subtitle>The Falcon Programming Language: An Open Source, simple, fast and powerful programming language, easy to learn and to feel comfortable with.</itunes:subtitle>
+	<itunes:summary>The Falcon Programming Language: An Open Source, simple, fast and powerful programming language, easy to learn and to feel comfortable with.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0221/floss0221.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0221/floss0221.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#220: Kazoo</title>
+	<pubDate>Wed, 01 Aug 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about the 2600hz project and something new they have called "Kazoo", a free business cloud telephone system with developer APIs.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0220/floss0220.mp3</guid>
+	<itunes:subtitle>We talk about the 2600hz project and something new they have called "Kazoo", a free business cloud telephone system with developer APIs.</itunes:subtitle>
+	<itunes:summary>We talk about the 2600hz project and something new they have called "Kazoo", a free business cloud telephone system with developer APIs.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0220/floss0220.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0220/floss0220.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#219: Chef</title>
+	<pubDate>Wed, 25 Jul 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Learn about Chef an open-source system integration framework built specifically for automating the cloud.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0219/floss0219.mp3</guid>
+	<itunes:subtitle>Learn about Chef an open-source system integration framework built specifically for automating the cloud.</itunes:subtitle>
+	<itunes:summary>Learn about Chef an open-source system integration framework built specifically for automating the cloud.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0219/floss0219.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0219/floss0219.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#218: Live at OSCON</title>
+	<pubDate>Wed, 18 Jul 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Live at OSCON 2012 with two special announcements!</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0218/floss0218.mp3</guid>
+	<itunes:subtitle>Live at OSCON 2012 with two special announcements!</itunes:subtitle>
+	<itunes:summary>Live at OSCON 2012 with two special announcements!</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0218/floss0218.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0218/floss0218.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#217: Scalr</title>
+	<pubDate>Wed, 11 Jul 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We'll be talking about Scalr, the software that manages your application in the cloud so you don't have to.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0217/floss0217.mp3</guid>
+	<itunes:subtitle>We'll be talking about Scalr, the software that manages your application in the cloud so you don't have to.</itunes:subtitle>
+	<itunes:summary>We'll be talking about Scalr, the software that manages your application in the cloud so you don't have to.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0217/floss0217.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0217/floss0217.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#216: Drools Planner</title>
+	<pubDate>Thu, 28 Jun 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>This week we talk about Drools Planner which helps normal Java programmers solve planning problems efficiently.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0216/floss0216.mp3</guid>
+	<itunes:subtitle>This week we talk about Drools Planner which helps normal Java programmers solve planning problems efficiently.</itunes:subtitle>
+	<itunes:summary>This week we talk about Drools Planner which helps normal Java programmers solve planning problems efficiently.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0216/floss0216.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0216/floss0216.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#215: Excito</title>
+	<pubDate>Wed, 20 Jun 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about the home media server Excito.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0215/floss0215.mp3</guid>
+	<itunes:subtitle>We talk about the home media server Excito.</itunes:subtitle>
+	<itunes:summary>We talk about the home media server Excito.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0215/floss0215.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0215/floss0215.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#214: LibreOffice</title>
+	<pubDate>Wed, 13 Jun 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>LibreOffice is the power-packed free, libre and open source personal productivity suite for Windows, Macintosh and GNU/Linux.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0214/floss0214.mp3</guid>
+	<itunes:subtitle>LibreOffice is the power-packed free, libre and open source personal productivity suite for Windows, Macintosh and GNU/Linux.</itunes:subtitle>
+	<itunes:summary>LibreOffice is the power-packed free, libre and open source personal productivity suite for Windows, Macintosh and GNU/Linux.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0214/floss0214.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0214/floss0214.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#213: libvirt</title>
+	<pubDate>Wed, 06 Jun 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>This week we talk about libvirt, a great way to manage your virtual machines.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0213/floss0213.mp3</guid>
+	<itunes:subtitle>This week we talk about libvirt, a great way to manage your virtual machines.</itunes:subtitle>
+	<itunes:summary>This week we talk about libvirt, a great way to manage your virtual machines.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0213/floss0213.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0213/floss0213.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#212: Gentoo</title>
+	<pubDate>Wed, 23 May 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Gentoo, a special flavor of Linux that can be automatically optimized and customized for just about any application or need.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0212/floss0212.mp3</guid>
+	<itunes:subtitle>We talk about Gentoo, a special flavor of Linux that can be automatically optimized and customized for just about any application or need.</itunes:subtitle>
+	<itunes:summary>We talk about Gentoo, a special flavor of Linux that can be automatically optimized and customized for just about any application or need.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0212/floss0212.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0212/floss0212.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#211: OpenShift</title>
+	<pubDate>Wed, 16 May 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We about OpenShift, the platform as a service that's free.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0211/floss0211.mp3</guid>
+	<itunes:subtitle>We about OpenShift, the platform as a service that's free.</itunes:subtitle>
+	<itunes:summary>We about OpenShift, the platform as a service that's free.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0211/floss0211.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0211/floss0211.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#210: Spree Commerce</title>
+	<pubDate>Wed, 09 May 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Spree Commerce, a really great way to sell things on the internet.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0210/floss0210.mp3</guid>
+	<itunes:subtitle>We talk about Spree Commerce, a really great way to sell things on the internet.</itunes:subtitle>
+	<itunes:summary>We talk about Spree Commerce, a really great way to sell things on the internet.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0210/floss0210.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0210/floss0210.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#209: Citadel</title>
+	<pubDate>Wed, 02 May 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We go old school and talk about the early days of BBSing and Citadel.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0209/floss0209.mp3</guid>
+	<itunes:subtitle>We go old school and talk about the early days of BBSing and Citadel.</itunes:subtitle>
+	<itunes:summary>We go old school and talk about the early days of BBSing and Citadel.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0209/floss0209.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0209/floss0209.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#208: Liz Quilty</title>
+	<pubDate>Wed, 25 Apr 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Randi Harper joins us this week to chat with Liz Quilty about all things open source.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0208/floss0208.mp3</guid>
+	<itunes:subtitle>Randi Harper joins us this week to chat with Liz Quilty about all things open source.</itunes:subtitle>
+	<itunes:summary>Randi Harper joins us this week to chat with Liz Quilty about all things open source.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0208/floss0208.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0208/floss0208.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#207: Nanoc</title>
+	<pubDate>Wed, 11 Apr 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Nanoc is a Ruby web publishing system for building small to medium-sized websites.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0207/floss0207.mp3</guid>
+	<itunes:subtitle>Nanoc is a Ruby web publishing system for building small to medium-sized websites.</itunes:subtitle>
+	<itunes:summary>Nanoc is a Ruby web publishing system for building small to medium-sized websites.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0207/floss0207.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0207/floss0207.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#206: Chamilo</title>
+	<pubDate>Wed, 04 Apr 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Chamilo, a powerful learning management system that's being used by over a million people all over the world.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0206/floss0206.mp3</guid>
+	<itunes:subtitle>We talk about Chamilo, a powerful learning management system that's being used by over a million people all over the world.</itunes:subtitle>
+	<itunes:summary>We talk about Chamilo, a powerful learning management system that's being used by over a million people all over the world.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0206/floss0206.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0206/floss0206.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#205: Aeolus</title>
+	<pubDate>Wed, 28 Mar 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Aeolus, software for running virtual machines both internally on your own equipment, and in Clouds from several leading vendors. All at the same time.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0205/floss0205.mp3</guid>
+	<itunes:subtitle>We talk about Aeolus, software for running virtual machines both internally on your own equipment, and in Clouds from several leading vendors. All at the same time.</itunes:subtitle>
+	<itunes:summary>We talk about Aeolus, software for running virtual machines both internally on your own equipment, and in Clouds from several leading vendors. All at the same time.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0205/floss0205.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0205/floss0205.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#204: Deltacloud</title>
+	<pubDate>Wed, 14 Mar 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Deltacloud and how they're putting an API in front of all the cloud API's so you'll have only one API to worry about.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0204/floss0204.mp3</guid>
+	<itunes:subtitle>We talk about Deltacloud and how they're putting an API in front of all the cloud API's so you'll have only one API to worry about.</itunes:subtitle>
+	<itunes:summary>We talk about Deltacloud and how they're putting an API in front of all the cloud API's so you'll have only one API to worry about.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0204/floss0204.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0204/floss0204.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#203: oVirt</title>
+	<pubDate>Wed, 07 Mar 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about oVirt, the virtualization platform that is open source and ready to use.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0203/floss0203.mp3</guid>
+	<itunes:subtitle>We talk about oVirt, the virtualization platform that is open source and ready to use.</itunes:subtitle>
+	<itunes:summary>We talk about oVirt, the virtualization platform that is open source and ready to use.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0203/floss0203.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0203/floss0203.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#202: Stunt Rally</title>
+	<pubDate>Wed, 22 Feb 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk to Crystal Hammer about Stunt Rally, a car racing simulation game.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0202/floss0202.mp3</guid>
+	<itunes:subtitle>We talk to Crystal Hammer about Stunt Rally, a car racing simulation game.</itunes:subtitle>
+	<itunes:summary>We talk to Crystal Hammer about Stunt Rally, a car racing simulation game.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0202/floss0202.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0202/floss0202.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#201: Turmeric</title>
+	<pubDate>Wed, 08 Feb 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Turmeric, a comprehensive, policy-driven SOA platform that you can use to develop, deploy, secure, run and monitor SOA services and consumers.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0201/floss0201.mp3</guid>
+	<itunes:subtitle>We talk about Turmeric, a comprehensive, policy-driven SOA platform that you can use to develop, deploy, secure, run and monitor SOA services and consumers.</itunes:subtitle>
+	<itunes:summary>We talk about Turmeric, a comprehensive, policy-driven SOA platform that you can use to develop, deploy, secure, run and monitor SOA services and consumers.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0201/floss0201.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0201/floss0201.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#200: Autotest</title>
+	<pubDate>Wed, 01 Feb 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Autotest, the testing framework used by the Linux kernel itself, and more.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0200/floss0200.mp3</guid>
+	<itunes:subtitle>We talk about Autotest, the testing framework used by the Linux kernel itself, and more.</itunes:subtitle>
+	<itunes:summary>We talk about Autotest, the testing framework used by the Linux kernel itself, and more.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0200/floss0200.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0200/floss0200.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#199: Remind</title>
+	<pubDate>Wed, 25 Jan 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk to David Skoll about Remind, old school command line stuff that lets you get messages about what's coming up, and more.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0199/floss0199.mp3</guid>
+	<itunes:subtitle>We talk to David Skoll about Remind, old school command line stuff that lets you get messages about what's coming up, and more.</itunes:subtitle>
+	<itunes:summary>We talk to David Skoll about Remind, old school command line stuff that lets you get messages about what's coming up, and more.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0199/floss0199.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0199/floss0199.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#198: FreeNAS</title>
+	<pubDate>Wed, 18 Jan 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk with James Nixon from the FreeNAS project which lets you have a disk storage system on your network at home.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0198/floss0198.mp3</guid>
+	<itunes:subtitle>We talk with James Nixon from the FreeNAS project which lets you have a disk storage system on your network at home.</itunes:subtitle>
+	<itunes:summary>We talk with James Nixon from the FreeNAS project which lets you have a disk storage system on your network at home.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0198/floss0198.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0198/floss0198.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#197: Overtone</title>
+	<pubDate>Wed, 11 Jan 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about the Overtone package which lets you create music and sounds just by writing in programs.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0197/floss0197.mp3</guid>
+	<itunes:subtitle>We talk about the Overtone package which lets you create music and sounds just by writing in programs.</itunes:subtitle>
+	<itunes:summary>We talk about the Overtone package which lets you create music and sounds just by writing in programs.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0197/floss0197.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0197/floss0197.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#196: Village Telco</title>
+	<pubDate>Wed, 04 Jan 2012 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about the Village Telco project which is bringing low cost data and VoIP to developing countries.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0196/floss0196.mp3</guid>
+	<itunes:subtitle>We talk about the Village Telco project which is bringing low cost data and VoIP to developing countries.</itunes:subtitle>
+	<itunes:summary>We talk about the Village Telco project which is bringing low cost data and VoIP to developing countries.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0196/floss0196.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0196/floss0196.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#195: ZeroMQ</title>
+	<pubDate>Wed, 21 Dec 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We're at the Brick Twithouse in Petaluma with Pieter Hintjens where we talk about ZeroMQ, which makes socketing and messaging easier.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0195/floss0195.mp3</guid>
+	<itunes:subtitle>We're at the Brick Twithouse in Petaluma with Pieter Hintjens where we talk about ZeroMQ, which makes socketing and messaging easier.</itunes:subtitle>
+	<itunes:summary>We're at the Brick Twithouse in Petaluma with Pieter Hintjens where we talk about ZeroMQ, which makes socketing and messaging easier.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0195/floss0195.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0195/floss0195.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#194: MySQL And MariaDB</title>
+	<pubDate>Wed, 14 Dec 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk to the creator of MySQL And MariaDB.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0194/floss0194.mp3</guid>
+	<itunes:subtitle>We talk to the creator of MySQL And MariaDB.</itunes:subtitle>
+	<itunes:summary>We talk to the creator of MySQL And MariaDB.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0194/floss0194.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0194/floss0194.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#193: Pinax</title>
+	<pubDate>Wed, 30 Nov 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Pinax, a web framework that gives you building blocks for your websites.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0193/floss0193.mp3</guid>
+	<itunes:subtitle>We talk about Pinax, a web framework that gives you building blocks for your websites.</itunes:subtitle>
+	<itunes:summary>We talk about Pinax, a web framework that gives you building blocks for your websites.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0193/floss0193.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0193/floss0193.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#192: Open Rights Group</title>
+	<pubDate>Wed, 23 Nov 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about the Open Rights Group, it exists to preserve and promote your rights in the digital age.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0192/floss0192.mp3</guid>
+	<itunes:subtitle>We talk about the Open Rights Group, it exists to preserve and promote your rights in the digital age.</itunes:subtitle>
+	<itunes:summary>We talk about the Open Rights Group, it exists to preserve and promote your rights in the digital age.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0192/floss0192.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0192/floss0192.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#191: Salt</title>
+	<pubDate>Wed, 16 Nov 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Salt, the remote execution engine that allows you to run the same command on multiple machines.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0191/floss0191.mp3</guid>
+	<itunes:subtitle>We talk about Salt, the remote execution engine that allows you to run the same command on multiple machines.</itunes:subtitle>
+	<itunes:summary>We talk about Salt, the remote execution engine that allows you to run the same command on multiple machines.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0191/floss0191.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0191/floss0191.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#190: IUP</title>
+	<pubDate>Wed, 09 Nov 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about a portable U.I. that allows your program to work on various operating systems without changing the code.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0190/floss0190.mp3</guid>
+	<itunes:subtitle>We talk about a portable U.I. that allows your program to work on various operating systems without changing the code.</itunes:subtitle>
+	<itunes:summary>We talk about a portable U.I. that allows your program to work on various operating systems without changing the code.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0190/floss0190.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0190/floss0190.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#189: PerlCritic</title>
+	<pubDate>Wed, 02 Nov 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about to Jeffrey Thalhammer about his project, PerlCritic, which looks at Perl Code and gives suggestions about how to make it better.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0189/floss0189.mp3</guid>
+	<itunes:subtitle>We talk about to Jeffrey Thalhammer about his project, PerlCritic, which looks at Perl Code and gives suggestions about how to make it better.</itunes:subtitle>
+	<itunes:summary>We talk about to Jeffrey Thalhammer about his project, PerlCritic, which looks at Perl Code and gives suggestions about how to make it better.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0189/floss0189.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0189/floss0189.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#188: web2py</title>
+	<pubDate>Wed, 26 Oct 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about web2py, a Python based web framework that has some really interesting and unique features.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0188/floss0188.mp3</guid>
+	<itunes:subtitle>We talk about web2py, a Python based web framework that has some really interesting and unique features.</itunes:subtitle>
+	<itunes:summary>We talk about web2py, a Python based web framework that has some really interesting and unique features.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0188/floss0188.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0188/floss0188.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#187: Vaadin</title>
+	<pubDate>Wed, 19 Oct 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about the Vaadin, a Java based, web application framework that allows you to make rich desktop applications.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0187/floss0187.mp3</guid>
+	<itunes:subtitle>We talk about the Vaadin, a Java based, web application framework that allows you to make rich desktop applications.</itunes:subtitle>
+	<itunes:summary>We talk about the Vaadin, a Java based, web application framework that allows you to make rich desktop applications.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0187/floss0187.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0187/floss0187.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#186: Superfeedr</title>
+	<pubDate>Wed, 12 Oct 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk to the Julien Genestoux about Superfeedr, the leading real time feed provider on the web today.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0186/floss0186.mp3</guid>
+	<itunes:subtitle>We talk to the Julien Genestoux about Superfeedr, the leading real time feed provider on the web today.</itunes:subtitle>
+	<itunes:summary>We talk to the Julien Genestoux about Superfeedr, the leading real time feed provider on the web today.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0186/floss0186.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0186/floss0186.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#185: ScraperWiki</title>
+	<pubDate>Wed, 05 Oct 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about ScraperWiki, an online tool programmers use to extract and consolidate far flung data from the internet.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0185/floss0185.mp3</guid>
+	<itunes:subtitle>We talk about ScraperWiki, an online tool programmers use to extract and consolidate far flung data from the internet.</itunes:subtitle>
+	<itunes:summary>We talk about ScraperWiki, an online tool programmers use to extract and consolidate far flung data from the internet.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0185/floss0185.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0185/floss0185.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#184: Eucalyptus</title>
+	<pubDate>Wed, 28 Sep 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Eucalyptus, the project that enables on premise private clouds without retooling existing IT structure or introducing new hardware.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0184/floss0184.mp3</guid>
+	<itunes:subtitle>We talk about Eucalyptus, the project that enables on premise private clouds without retooling existing IT structure or introducing new hardware.</itunes:subtitle>
+	<itunes:summary>We talk about Eucalyptus, the project that enables on premise private clouds without retooling existing IT structure or introducing new hardware.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0184/floss0184.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0184/floss0184.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#183: Cassandra</title>
+	<pubDate>Wed, 21 Sep 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We take a closer look at Cassandra, the high performance NoSQL database that may be powering some of the websites you may already be visiting.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0183/floss0183.mp3</guid>
+	<itunes:subtitle>We take a closer look at Cassandra, the high performance NoSQL database that may be powering some of the websites you may already be visiting.</itunes:subtitle>
+	<itunes:summary>We take a closer look at Cassandra, the high performance NoSQL database that may be powering some of the websites you may already be visiting.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0183/floss0183.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0183/floss0183.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#182: PC-BSD</title>
+	<pubDate>Wed, 14 Sep 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about PC-BSD, a user friendly desktop Operating System based on FreeBSD.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0182/floss0182.mp3</guid>
+	<itunes:subtitle>We talk about PC-BSD, a user friendly desktop Operating System based on FreeBSD.</itunes:subtitle>
+	<itunes:summary>We talk about PC-BSD, a user friendly desktop Operating System based on FreeBSD.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0182/floss0182.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0182/floss0182.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#181: Libcloud</title>
+	<pubDate>Wed, 07 Sep 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We take a closer look at Libcloud, a standard Python library that abstracts away differences among multiple cloud provider APIs.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0181/floss0181.mp3</guid>
+	<itunes:subtitle>We take a closer look at Libcloud, a standard Python library that abstracts away differences among multiple cloud provider APIs.</itunes:subtitle>
+	<itunes:summary>We take a closer look at Libcloud, a standard Python library that abstracts away differences among multiple cloud provider APIs.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0181/floss0181.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0181/floss0181.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#180: Observium</title>
+	<pubDate>Wed, 31 Aug 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We take a closer look at Observium. A network management software that make sure your system is staying up and running.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0180/floss0180.mp3</guid>
+	<itunes:subtitle>We take a closer look at Observium. A network management software that make sure your system is staying up and running.</itunes:subtitle>
+	<itunes:summary>We take a closer look at Observium. A network management software that make sure your system is staying up and running.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0180/floss0180.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0180/floss0180.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#179: The Apache Traffic Server</title>
+	<pubDate>Wed, 24 Aug 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about the Apache Traffic Server, a proxy server that you probably don't realize you are already using.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0179/floss0179.mp3</guid>
+	<itunes:subtitle>We talk about the Apache Traffic Server, a proxy server that you probably don't realize you are already using.</itunes:subtitle>
+	<itunes:summary>We talk about the Apache Traffic Server, a proxy server that you probably don't realize you are already using.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0179/floss0179.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0179/floss0179.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#178: Synergy</title>
+	<pubDate>Wed, 17 Aug 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk about Synergy, which lets you use the same mouse and keyboard across multiple computers on your desk.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0178/floss0178.mp3</guid>
+	<itunes:subtitle>We talk about Synergy, which lets you use the same mouse and keyboard across multiple computers on your desk.</itunes:subtitle>
+	<itunes:summary>We talk about Synergy, which lets you use the same mouse and keyboard across multiple computers on your desk.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0178/floss0178.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0178/floss0178.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#177: Delta3D</title>
+	<pubDate>Wed, 10 Aug 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We chat about Delta3D, a giant simulation engine that's used by the military but is available to civilians as well.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0177/floss0177.mp3</guid>
+	<itunes:subtitle>We chat about Delta3D, a giant simulation engine that's used by the military but is available to civilians as well.</itunes:subtitle>
+	<itunes:summary>We chat about Delta3D, a giant simulation engine that's used by the military but is available to civilians as well.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0177/floss0177.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0177/floss0177.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#176: Colin Percival</title>
+	<pubDate>Wed, 03 Aug 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We chat with Colin Percival who has managed to put FreeBSD on EC2 and figured out a good way to have secure backups in the cloud.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0176/floss0176.mp3</guid>
+	<itunes:subtitle>We chat with Colin Percival who has managed to put FreeBSD on EC2 and figured out a good way to have secure backups in the cloud.</itunes:subtitle>
+	<itunes:summary>We chat with Colin Percival who has managed to put FreeBSD on EC2 and figured out a good way to have secure backups in the cloud.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0176/floss0176.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0176/floss0176.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#175: Taskwarrior</title>
+	<pubDate>Wed, 20 Jul 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk to the creators of Taskwarrior, a to do manager that has a lot of really great features.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0175/floss0175.mp3</guid>
+	<itunes:subtitle>We talk to the creators of Taskwarrior, a to do manager that has a lot of really great features.</itunes:subtitle>
+	<itunes:summary>We talk to the creators of Taskwarrior, a to do manager that has a lot of really great features.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0175/floss0175.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0175/floss0175.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#174: Enano CMS</title>
+	<pubDate>Wed, 13 Jul 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We talk to the creator of the Enano CMS and its new, interesting features.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0174/floss0174.mp3</guid>
+	<itunes:subtitle>We talk to the creator of the Enano CMS and its new, interesting features.</itunes:subtitle>
+	<itunes:summary>We talk to the creator of the Enano CMS and its new, interesting features.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0174/floss0174.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0174/floss0174.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#173: Lessons Learned From FLOSSing Weekly</title>
+	<pubDate>Wed, 06 Jul 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Randal's presentation at FISL.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0173/floss0173.mp3</guid>
+	<itunes:subtitle>Randal's presentation at FISL.</itunes:subtitle>
+	<itunes:summary>Randal's presentation at FISL.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0173/floss0173.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0173/floss0173.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#172: MediaFront</title>
+	<pubDate>Wed, 29 Jun 2011 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>We chat with Travis Tidwell about MediaFront, the open source media solution for streaming and playing video over the web.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0172/floss0172.mp3</guid>
+	<itunes:subtitle>We chat with Travis Tidwell about MediaFront, the open source media solution for streaming and playing video over the web.</itunes:subtitle>
+	<itunes:summary>We chat with Travis Tidwell about MediaFront, the open source media solution for streaming and playing video over the web.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0172/floss0172.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0172/floss0172.mp3" length="0" type="audio/mpeg"/>
 </item>	</channel>
 </rss>
