@@ -1,0 +1,266 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+	<channel>
+		<title>FLOSS Weekly (MP3)</title>
+		<link>http://twit.tv/floss</link>
+		<generator>TWiT Feed Generator v2.3</generator>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<language>en-US</language>
+		<copyright>
+This work is licensed under a Creative Commons License - Attribution-NonCommercial-ShareAlike - http://creativecommons.org/licenses/by-nc-sa/3.0/
+		</copyright>
+		<creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
+		<managingEditor>leo@twit.tv (Leo Laporte)</managingEditor>
+		<webMaster>leo@twit.tv (Leo Laporte)</webMaster>
+		<ttl>720</ttl>
+		<sy:updatePeriod>weekly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<lastBuildDate>Wed, 10 Dec 2014 13:07:01 -0800</lastBuildDate>
+		<pubDate>Wed, 10 Dec 2014 13:07:01 -0800</pubDate>
+		<category>Technology</category>
+		<category>Open Source</category>
+		<category>Software</category>
+		<image>
+			<title>FLOSS Weekly (MP3)</title>
+			<url>http://feeds.twit.tv/coverart/floss144audio.jpg</url>
+			<link>http://twit.tv/floss</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<atom:link href="http://feeds.twit.tv/floss.xml" type="application/rss+xml" rel="self"/>
+		<itunes:author>TWiT</itunes:author>
+		<itunes:subtitle>We're not talking dentistry here; FLOSS all about Free Libre Open Source Software. Join host Randal Schwartz every Wednesday as he talks with the most interesting and important people in the Open Source and Free Software community.</itunes:subtitle>
+		<itunes:summary>
+We're not talking dentistry here; FLOSS all about Free Libre Open Source Software. Join host Randal Schwartz every Wednesday as he talks with the most interesting and important people in the Open Source and Free Software community.
+Records live at http://live.twit.tv/ every Wednesday at 8:30am PT/11:30am ET.
+		</itunes:summary>
+		<description>
+We're not talking dentistry here; FLOSS all about Free Libre Open Source Software. Join host Randal Schwartz every Wednesday as he talks with the most interesting and important people in the Open Source and Free Software community.
+Records live at http://live.twit.tv/ every Wednesday at 8:30am PT/11:30am ET.
+		</description>
+		<itunes:keywords>
+Tech News, hardware, software, open source, software, how-to
+		</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Leo Laporte</itunes:name>
+			<itunes:email>leo@twit.tv</itunes:email>
+		</itunes:owner>
+		<itunes:block>no</itunes:block>
+		<itunes:image href="http://feeds.twit.tv/coverart/floss1400audio.jpg" />
+		<itunes:category text="Technology">
+			<itunes:category text="Software How-To"/>
+		</itunes:category>
+		<itunes:category text="Technology">
+			<itunes:category text="Tech News"/>
+		</itunes:category><item>
+	<title>#318: mod_pagespeed</title>
+	<pubDate>Wed, 10 Dec 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Jeff Kaufman, mod_pagespeed, and a British takeover.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0318/floss0318.mp3</guid>
+	<itunes:subtitle>Jeff Kaufman, mod_pagespeed, and a British takeover.</itunes:subtitle>
+	<itunes:summary>Jeff Kaufman, mod_pagespeed, and a British takeover.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0318/floss0318.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0318/floss0318.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#317: Pentaho</title>
+	<pubDate>Wed, 26 Nov 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Pentaho a big data integration and business analytics software.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0317/floss0317.mp3</guid>
+	<itunes:subtitle>Pentaho a big data integration and business analytics software.</itunes:subtitle>
+	<itunes:summary>Pentaho a big data integration and business analytics software.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0317/floss0317.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0317/floss0317.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#316: ccMixter</title>
+	<pubDate>Wed, 19 Nov 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>ccMixter is open and free for musicians and creators.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0316/floss0316.mp3</guid>
+	<itunes:subtitle>ccMixter is open and free for musicians and creators.</itunes:subtitle>
+	<itunes:summary>ccMixter is open and free for musicians and creators.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0316/floss0316.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0316/floss0316.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#315: RethinkDB</title>
+	<pubDate>Wed, 05 Nov 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>RethinkDB, CEO Slava Akhmechet, and distributed databases.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0315/floss0315.mp3</guid>
+	<itunes:subtitle>RethinkDB, CEO Slava Akhmechet, and distributed databases.</itunes:subtitle>
+	<itunes:summary>RethinkDB, CEO Slava Akhmechet, and distributed databases.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0315/floss0315.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0315/floss0315.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#314: CoreOS</title>
+	<pubDate>Wed, 29 Oct 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Linux for Massive Server Deployments.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0314/floss0314.mp3</guid>
+	<itunes:subtitle>Linux for Massive Server Deployments.</itunes:subtitle>
+	<itunes:summary>Linux for Massive Server Deployments.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0314/floss0314.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0314/floss0314.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#313: FenixEDU</title>
+	<pubDate>Wed, 22 Oct 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>FenixEDU is a platform to manage data for education.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0313/floss0313.mp3</guid>
+	<itunes:subtitle>FenixEDU is a platform to manage data for education.</itunes:subtitle>
+	<itunes:summary>FenixEDU is a platform to manage data for education.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0313/floss0313.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0313/floss0313.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#312: openHAB</title>
+	<pubDate>Wed, 15 Oct 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>OpenHAB is an open source project to power smarthome systems.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0312/floss0312.mp3</guid>
+	<itunes:subtitle>OpenHAB is an open source project to power smarthome systems.</itunes:subtitle>
+	<itunes:summary>OpenHAB is an open source project to power smarthome systems.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0312/floss0312.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0312/floss0312.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#311: The D Language</title>
+	<pubDate>Wed, 08 Oct 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>D is a language with C-like syntax and static typing.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0311/floss0311.mp3</guid>
+	<itunes:subtitle>D is a language with C-like syntax and static typing.</itunes:subtitle>
+	<itunes:summary>D is a language with C-like syntax and static typing.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0311/floss0311.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0311/floss0311.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#310: Ask Randal Anything!</title>
+	<pubDate>Wed, 01 Oct 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>FLOSS Weekly host Randal Schwartz takes questions from the viewers!</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0310/floss0310.mp3</guid>
+	<itunes:subtitle>FLOSS Weekly host Randal Schwartz takes questions from the viewers!</itunes:subtitle>
+	<itunes:summary>FLOSS Weekly host Randal Schwartz takes questions from the viewers!</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0310/floss0310.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0310/floss0310.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#309: Sqitch</title>
+	<pubDate>Wed, 17 Sep 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Sqitch is a database change management application</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0309/floss0309.mp3</guid>
+	<itunes:subtitle>Sqitch is a database change management application</itunes:subtitle>
+	<itunes:summary>Sqitch is a database change management application</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0309/floss0309.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0309/floss0309.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#308: CrisisNET</title>
+	<pubDate>Wed, 10 Sep 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>CrisisNET helps access relevant data to help governments and communities respond quickly to crises.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0308/floss0308.mp3</guid>
+	<itunes:subtitle>CrisisNET helps access relevant data to help governments and communities respond quickly to crises.</itunes:subtitle>
+	<itunes:summary>CrisisNET helps access relevant data to help governments and communities respond quickly to crises.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0308/floss0308.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0308/floss0308.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#307: Self-Publishing</title>
+	<pubDate>Wed, 03 Sep 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Author Hugh Howey talks about the writing process and similarities to open source.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0307/floss0307.mp3</guid>
+	<itunes:subtitle>Author Hugh Howey talks about the writing process and similarities to open source.</itunes:subtitle>
+	<itunes:summary>Author Hugh Howey talks about the writing process and similarities to open source.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0307/floss0307.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0307/floss0307.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#306: RStudio</title>
+	<pubDate>Thu, 28 Aug 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>RStudio IDE is a powerful and productive user interface for R</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0306/floss0306.mp3</guid>
+	<itunes:subtitle>RStudio IDE is a powerful and productive user interface for R</itunes:subtitle>
+	<itunes:summary>RStudio IDE is a powerful and productive user interface for R</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0306/floss0306.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0306/floss0306.mp3" length="0" type="audio/mpeg"/>
+</item><item>
+	<title>#305: Crate Data</title>
+	<pubDate>Wed, 20 Aug 2014 00:00:00 </pubDate>
+	<itunes:author>TWiT</itunes:author>
+	<author>leo@twit.tv (Leo Laporte)</author>
+	<category>Technology</category>
+	<category>Open Source</category>
+	<category>Software</category>
+	<description>Crate Data is a distributed SQL data store that runs on one machine or a cluster of machines.</description>
+	<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0305/floss0305.mp3</guid>
+	<itunes:subtitle>Crate Data is a distributed SQL data store that runs on one machine or a cluster of machines.</itunes:subtitle>
+	<itunes:summary>Crate Data is a distributed SQL data store that runs on one machine or a cluster of machines.</itunes:summary>
+	<itunes:explicit>no</itunes:explicit>
+	<link>http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0305/floss0305.mp3</link>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/floss/floss0305/floss0305.mp3" length="0" type="audio/mpeg"/>
+</item>	</channel>
+</rss>
