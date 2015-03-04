@@ -1,4 +1,6 @@
 # Daily Notes
+## March 04, 2015
+
 ## March 03, 2015
 
 Compound Query setup for on a new box:
