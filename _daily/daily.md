@@ -1,5 +1,10 @@
 # Daily Notes
 ## March 04, 2015
+To use git in an automated script and http address. Use the convental http credentials.  
+Like:
+```
+git push --repo https://name:password@github.com/name/repo.git
+```
 
 ## March 03, 2015
 
