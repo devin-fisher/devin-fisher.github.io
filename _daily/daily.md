@@ -1,5 +1,7 @@
-# Daily Notes
+# [Daily Notes](http://devin-fisher.github.io/daily/daily.html)
 ## March 04, 2015
+sqlite visual editor, tried using sqliteman.
+
 To use git in an automated script and http address. Use the convental http credentials.  
 Like:
 ```
