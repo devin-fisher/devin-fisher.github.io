@@ -1,4 +1,19 @@
 # [Daily Notes](http://devin-fisher.github.io/daily/daily.html)
+## March 05, 2015
+
+Run distwebservices.py with all of it --no parameters
+
+```
+./distwebservices.py --no-searchserver --no-feeder --no-retriever --no-fastcgi --no-paster --no-webserver --no-ldpa
+```
+
+Log Patterns for the SearchServer:
+```
+http://IPAddress:30000/cache/logpatterns?log=0&store=0
+log=0 OFF
+log=1 ON
+```
+
 ## March 04, 2015
 sqlite visual editor, tried using sqliteman.
 
