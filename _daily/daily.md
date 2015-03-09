@@ -41,5 +41,5 @@ sb build
 Additionally run this command in each sandbox:
 
 ```
-docker build -t cq_clinical-reports-extension.v60_release.dev /path/to/run/webapp/compoundquery/
+docker build -t cq_clinical-reports-extension.v60_release.dev webapp/compoundquery
 ```
