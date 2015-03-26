@@ -1,4 +1,19 @@
 # [Daily Notes](http://devin-fisher.github.io/daily/daily.html)
+## March 26, 2015
+
+Clear all Saved Results
+
+The following will show all results and allow you to select the ones you want to remove. 
+```
+ctr+shift+f
+```
+
+Once selected. Use:
+```
+del
+```
+will remove all selected results
+
 ## March 05, 2015
 
 Run distwebservices.py with all of it --no parameters
