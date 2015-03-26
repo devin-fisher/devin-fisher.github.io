@@ -5,7 +5,7 @@ Clear all Saved Results
 
 The following will show all results and allow you to select the ones you want to remove. 
 ```
-ctr+shift+f
+ctr+shift+f10
 ```
 
 Once selected. Use:
