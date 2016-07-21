@@ -1,4 +1,13 @@
 # [Daily Notes](http://devin-fisher.github.io/daily/daily.html)
+## July 21, 2006
+Fix webob on fedora, add the following to /lib/python2.7/site-packages/webob/exe.py for the class HTTPException
+
+```
+    def exception(self):
+        return self
+
+    exception = property(exception)
+```
 ## August 13, 2015
 -L <local port>:<tunneled host>:<tunneled port>
 ```
