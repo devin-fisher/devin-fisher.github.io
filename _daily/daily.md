@@ -1,4 +1,9 @@
 # [Daily Notes](http://devin-fisher.github.io/daily/daily.html)
+## August 13, 2015
+-L <local port>:<tunneled host>:<tunneled port>
+```
+$ ssh -L 9000:imgur.com:80 user@example.com
+```
 ## March 26, 2015
 
 Clear all Saved Results
